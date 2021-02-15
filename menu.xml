@@ -7,6 +7,10 @@
         <action>UnidadesmedidaFormList</action>
         <icon>fas:hammer fa-fw</icon>
       </menuitem>
+      <menuitem label="Ingredientes">
+        <action>IngredientesFormList</action>
+        <icon>fas:shopping-cart fa-fw</icon>
+      </menuitem>
     </menu>
   </menuitem>
   <menuitem label="_t{Administration}">
